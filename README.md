@@ -1,7 +1,7 @@
 # phase-0-gps-1
-git clone -> clones from github to local computer
-ls -> check repo contents
-touch -> added file
-git status -> see changes to repo
-git add/commit -> stage changes & update to github.com
-git checkout -b -> create new branch
+__git clone__ -> *clones* from github to local computer
+__ls__ -> check repo _contents_
+__touch__ -> added *file*
+__git status__ -> see changes to *repo*
+__git add/commit__ -> stage *changes* & update to github.com
+__git checkout -b__ -> create new *branch*
